@@ -1,0 +1,21 @@
+MODULES:
+	1. Bunsen Burner: Implemented button functionality with flame levels (LOW, MID, HIGH) for different use cases.
+	2. Tripod Stand: A base stand for holding up other modules.
+	3. Iron Stand With Clamp: Can be used to attach another object, move it up or down
+	4. Round Bottom Flask: Container for liquids, implement with another modules + collider
+	5. Wire Gauze: Simple Module
+	6. Condenser: Simple base Module
+	7. Distillation Vapor System: Uses all modules and complete implementation in Experiment 5.8
+
+Some modules require external packages to install for use. Mainly for .glb files. Most of them were independent and isolated by parts, if anyone wants to modify them according to their usage. Some scripts would be useless as usage varies from one practical to another.
+
+
+MODULES USED:
+	Most of the modules used in our practicals were our own, but there were others which we could not either find (not made by students) or could not import (errors, missing components).
+
+
+PRACTICALS:
+	Almost all practicals are playable in both windows and androids. 3 of them were tested by developers. Experiment 5.8 was a bit complex and due to extreme shortage of time and modules, it was completed in a rush and could not be setup properly.
+
+On the other hand, Experiment 5.6 was deeply implemented with Lab room.
+We faced some issues on unity due to which the laboratory was half unsaved and lost.
